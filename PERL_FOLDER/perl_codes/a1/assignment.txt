@@ -1,0 +1,9 @@
+Datatypes
+2state dt and 4 state datatype
+int bit byte longint short int integer logic reg time
+
+String datatype
+class datatype
+typedef datatype 
+built-in datatype
+
