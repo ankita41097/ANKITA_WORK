@@ -1,0 +1,6 @@
+ls
+ls -a
+ls -l
+grep -i "ls" *
+grep -c "ls" *
+ls -hl

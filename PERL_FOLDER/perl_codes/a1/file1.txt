@@ -1,0 +1,11 @@
+Hello
+This is Ankita Banerjee
+I am from Kolkata, West Bengal
+I did my Mtech from JU
+I live in Bengaluru
+I am learning perl language
+I am working in Digicomm Semiconductors
+I am currently working as DV engineer
+I love travelling
+I like listening to music
+Thank you
